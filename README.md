@@ -32,7 +32,7 @@
     </section>
     <section id="contact">
         <h2>Contact</h2>
-        <p>Email: shahrukhkhann138@gmail.com</p>
+        <p>Email: shahrukhkhann138@gmail.com</p> phon contact 923255946990
     </section>
     <footer>
         <p>© 2025 Shahrukh Khan. All rights reserved.</p>
